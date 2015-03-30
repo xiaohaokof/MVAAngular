@@ -1,2 +1,2 @@
 # MVAAngular
-Slides and demos from AngularJS MVA
+Demo Files / Project for MVA - an Intro to Angular.
